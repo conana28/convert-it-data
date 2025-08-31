@@ -1,10 +1,10 @@
 [
   {
-    "description": "Oven fries11",
+    "description": "Oven fries",
     "celsius": 200,
     "fahrenheit": 392,
     "category": "Air fryer",
-    "cookingTime": "11 min"
+    "cookingTime": "12 min"
   },
   {
     "description": "Whole chicken555",
