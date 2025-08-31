@@ -13,30 +13,7 @@
     "category": "Air fryer",
     "cookingTime": "45 min"
   },
-  {
-    "description": "Room temperature",
-    "celsius": 20,
-    "fahrenheit": 68,
-    "category": "Reference Points"
-  },
-  {
-    "description": "Body temperature",
-    "celsius": 37,
-    "fahrenheit": 98.6,
-    "category": "Reference Points"
-  },
-  {
-    "description": "Water freezes",
-    "celsius": 0,
-    "fahrenheit": 32,
-    "category": "Reference Points"
-  },
-  {
-    "description": "Water boils",
-    "celsius": 100,
-    "fahrenheit": 212,
-    "category": "Reference Points"
-  },
+ 
   {
     "description": "Egg - Soft",
     "celsius": 63,
