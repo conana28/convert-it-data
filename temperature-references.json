@@ -166,11 +166,5 @@
     "celsius": 0,
     "fahrenheit": 32,
     "category": "Reference Points"
-  },
-  {
-    "description": "Water boils",
-    "celsius": 100,
-    "fahrenheit": 212,
-    "category": "Reference Points"
   }
 ]
