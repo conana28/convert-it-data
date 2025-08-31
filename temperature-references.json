@@ -13,7 +13,6 @@
     "category": "Air fryer",
     "cookingTime": "45 min"
   },
- 
   {
     "description": "Egg - Soft",
     "celsius": 63,
@@ -173,5 +172,5 @@
     "celsius": 100,
     "fahrenheit": 212,
     "category": "Reference Points"
-  },
+  }
 ]
