@@ -1,0 +1,177 @@
+[
+  {
+    "description": "Oven fries",
+    "celsius": 200,
+    "fahrenheit": 392,
+    "category": "Air fryer",
+    "cookingTime": "12 min"
+  },
+  {
+    "description": "Whole chicken",
+    "celsius": 180,
+    "fahrenheit": 356,
+    "category": "Air fryer",
+    "cookingTime": "45 min"
+  },
+  {
+    "description": "Room temperature",
+    "celsius": 20,
+    "fahrenheit": 68,
+    "category": "Reference Points"
+  },
+  {
+    "description": "Body temperature",
+    "celsius": 37,
+    "fahrenheit": 98.6,
+    "category": "Reference Points"
+  },
+  {
+    "description": "Water freezes",
+    "celsius": 0,
+    "fahrenheit": 32,
+    "category": "Reference Points"
+  },
+  {
+    "description": "Water boils",
+    "celsius": 100,
+    "fahrenheit": 212,
+    "category": "Reference Points"
+  },
+  {
+    "description": "Egg - Soft",
+    "celsius": 63,
+    "fahrenheit": 145,
+    "category": "Sous Vide",
+    "cookingTime": "45 min"
+  },
+  {
+    "description": "Octopus",
+    "celsius": 80,
+    "fahrenheit": 178,
+    "category": "Sous Vide",
+    "cookingTime": "300 min"
+  },
+  {
+    "description": "Steak - Medium Rare",
+    "celsius": 55,
+    "fahrenheit": 131,
+    "category": "Sous Vide",
+    "cookingTime": "1-4 hrs"
+  },
+  {
+    "description": "Chicken Breast",
+    "celsius": 65,
+    "fahrenheit": 149,
+    "category": "Sous Vide",
+    "cookingTime": "1-4 hrs"
+  },
+  {
+    "description": "Pork Shoulder",
+    "celsius": 74,
+    "fahrenheit": 165,
+    "category": "Sous Vide",
+    "cookingTime": "12-24 hrs"
+  },
+  {
+    "description": "Oven - Low (warm)",
+    "celsius": 80,
+    "fahrenheit": 175,
+    "category": "Oven Temperatures"
+  },
+  {
+    "description": "Oven - Very low",
+    "celsius": 120,
+    "fahrenheit": 250,
+    "category": "Oven Temperatures"
+  },
+  {
+    "description": "Oven - Low",
+    "celsius": 150,
+    "fahrenheit": 300,
+    "category": "Oven Temperatures"
+  },
+  {
+    "description": "Oven - Moderate low",
+    "celsius": 160,
+    "fahrenheit": 325,
+    "category": "Oven Temperatures"
+  },
+  {
+    "description": "Oven - Moderate",
+    "celsius": 180,
+    "fahrenheit": 350,
+    "category": "Oven Temperatures"
+  },
+  {
+    "description": "Oven - Moderate hot",
+    "celsius": 190,
+    "fahrenheit": 375,
+    "category": "Oven Temperatures"
+  },
+  {
+    "description": "Oven - Hot",
+    "celsius": 200,
+    "fahrenheit": 400,
+    "category": "Oven Temperatures"
+  },
+  {
+    "description": "Oven - Very hot",
+    "celsius": 220,
+    "fahrenheit": 425,
+    "category": "Oven Temperatures"
+  },
+  {
+    "description": "Oven - Extremely hot",
+    "celsius": 240,
+    "fahrenheit": 475,
+    "category": "Oven Temperatures"
+  },
+  {
+    "description": "Thread stage",
+    "celsius": 106,
+    "fahrenheit": 223,
+    "category": "Candy Making"
+  },
+  {
+    "description": "Soft ball",
+    "celsius": 115,
+    "fahrenheit": 240,
+    "category": "Candy Making"
+  },
+  {
+    "description": "Hard crack",
+    "celsius": 150,
+    "fahrenheit": 300,
+    "category": "Candy Making"
+  },
+  {
+    "description": "Deep frying",
+    "celsius": 175,
+    "fahrenheit": 350,
+    "category": "Cooking Temperatures"
+  },
+  {
+    "description": "Meat - Rare",
+    "celsius": 50,
+    "fahrenheit": 120,
+    "category": "Cooking Temperatures"
+  },
+  {
+    "description": "Meat - Medium rare",
+    "celsius": 55,
+    "fahrenheit": 130,
+    "category": "Cooking Temperatures"
+  },
+  {
+    "description": "Meat - Medium",
+    "celsius": 60,
+    "fahrenheit": 140,
+    "category": "Cooking Temperatures"
+  },
+  {
+    "description": "Meat - Well done",
+    "celsius": 70,
+    "fahrenheit": 160,
+    "category": "Cooking Temperatures"
+  }
+]
