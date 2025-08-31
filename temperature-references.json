@@ -16,6 +16,7 @@
    {
     "description": "Whole legs",
     "celsius": 180,
+     "fahrenheit": 356,
     "category": "Air fryer",
     "cookingTime": "30 min"
   }, {
