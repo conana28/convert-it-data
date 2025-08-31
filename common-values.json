@@ -1,0 +1,157 @@
+[
+  {
+    "item": "1 stick of butter",
+    "value": "113g",
+    "category": "Butter & Fats"
+  },
+  {
+    "item": "1 tablespoon butter",
+    "value": "14g",
+    "category": "Butter & Fats"
+  },
+  {
+    "item": "1 cup butter",
+    "value": "227g",
+    "category": "Butter & Fats"
+  },
+  {
+    "item": "1 tablespoon oil",
+    "value": "14g",
+    "category": "Butter & Fats"
+  },
+  {
+    "item": "1 cup all-purpose flour",
+    "value": "120g",
+    "category": "Flour & Grains"
+  },
+  {
+    "item": "1 cup bread flour",
+    "value": "127g",
+    "category": "Flour & Grains"
+  },
+  {
+    "item": "1 cup cake flour",
+    "value": "114g",
+    "category": "Flour & Grains"
+  },
+  {
+    "item": "1 cup rice",
+    "value": "185g",
+    "category": "Flour & Grains"
+  },
+  {
+    "item": "1 cup oats",
+    "value": "80g",
+    "category": "Flour & Grains"
+  },
+  {
+    "item": "1 cup granulated sugar",
+    "value": "200g",
+    "category": "Sugar & Sweeteners"
+  },
+  {
+    "item": "1 cup brown sugar (packed)",
+    "value": "213g",
+    "category": "Sugar & Sweeteners"
+  },
+  {
+    "item": "1 cup powdered sugar",
+    "value": "120g",
+    "category": "Sugar & Sweeteners"
+  },
+  {
+    "item": "1 tablespoon honey",
+    "value": "21g",
+    "category": "Sugar & Sweeteners"
+  },
+  {
+    "item": "1 tablespoon maple syrup",
+    "value": "20g",
+    "category": "Sugar & Sweeteners"
+  },
+  {
+    "item": "1 cup water",
+    "value": "240ml",
+    "category": "Liquids"
+  },
+  {
+    "item": "1 cup milk",
+    "value": "245g",
+    "category": "Liquids"
+  },
+  {
+    "item": "1 cup cream",
+    "value": "240g",
+    "category": "Liquids"
+  },
+  {
+    "item": "1 tablespoon liquid",
+    "value": "15ml",
+    "category": "Liquids"
+  },
+  {
+    "item": "1 teaspoon liquid",
+    "value": "5ml",
+    "category": "Liquids"
+  },
+  {
+    "item": "1 large egg",
+    "value": "50g",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "item": "1 egg white",
+    "value": "30g",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "item": "1 egg yolk",
+    "value": "20g",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "item": "1 cup grated cheese",
+    "value": "113g",
+    "category": "Dairy & Eggs"
+  },
+  {
+    "item": "1 cup almonds (whole)",
+    "value": "140g",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "item": "1 cup walnuts (chopped)",
+    "value": "120g",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "item": "1 cup peanuts",
+    "value": "146g",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "item": "1 tablespoon sesame seeds",
+    "value": "9g",
+    "category": "Nuts & Seeds"
+  },
+  {
+    "item": "1 tablespoon salt",
+    "value": "18g",
+    "category": "Spices & Seasonings"
+  },
+  {
+    "item": "1 teaspoon salt",
+    "value": "6g",
+    "category": "Spices & Seasonings"
+  },
+  {
+    "item": "1 tablespoon baking powder",
+    "value": "12g",
+    "category": "Spices & Seasonings"
+  },
+  {
+    "item": "1 teaspoon vanilla extract",
+    "value": "4g",
+    "category": "Spices & Seasonings"
+  }
+]
