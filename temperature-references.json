@@ -13,7 +13,12 @@
     "category": "Air fryer",
     "cookingTime": "45 min"
   },
-  {
+   {
+    "description": "Whole legs",
+    "celsius": 180,
+    "category": "Air fryer",
+    "cookingTime": "30 min"
+  }, {
     "description": "Egg - Soft",
     "celsius": 63,
     "fahrenheit": 145,
